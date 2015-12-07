@@ -1,0 +1,4 @@
+django-recaptcha==1.0.4
+jsonfield==1.0.3
+wsgiref==0.1.2
+
